@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.78d69b5c.css",
+    "main.js": "./static/js/main.b561137b.js",
+    "static/media/nice-gadgets-logo.svg": "./static/media/nice-gadgets-logo.42d097e89c6d61298089.svg",
+    "static/media/product-not-found.png": "./static/media/product-not-found.8214da88616b09290166.png",
+    "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
+    "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
+    "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "static/media/Accessories.png": "./static/media/Accessories.ceac5a16c668432a34a0.png",
+    "static/media/Tablets.png": "./static/media/Tablets.a1aff0fe1c1693fcea55.png",
+    "static/media/Phones.png": "./static/media/Phones.9e913039f5c6a4866001.png",
+    "static/media/Cart.svg": "./static/media/Cart.0089c9921342187cd543.svg",
+    "static/media/Heart-like.svg": "./static/media/Heart-like.c114cca9e59b6fe3f2ee.svg",
+    "static/media/Home.svg": "./static/media/Home.1816ab2ca60cac7cf0eb.svg",
+    "static/media/heart-like-fullfield.svg": "./static/media/heart-like-fullfield.e06f68523386b982e85a.svg",
+    "static/media/Menu.svg": "./static/media/Menu.79493d978b6370e711c2.svg",
+    "static/media/arrow-left.svg": "./static/media/arrow-left.2b74f31a61821153bb42.svg",
+    "static/media/arrow-right.svg": "./static/media/arrow-right.3e70a63fdd5e23d4b944.svg",
+    "static/media/arrow-down.svg": "./static/media/arrow-down.24d44fed422f6846ee6b.svg",
+    "static/media/arrow-up.svg": "./static/media/arrow-up.b1c61b8a9d7b5f519645.svg",
+    "index.html": "./index.html",
+    "main.78d69b5c.css.map": "./static/css/main.78d69b5c.css.map",
+    "main.b561137b.js.map": "./static/js/main.b561137b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78d69b5c.css",
+    "static/js/main.b561137b.js"
+  ]
+}
