@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.8e82676b.css",
-    "main.js": "./static/js/main.45a58ab0.js",
+    "main.css": "./static/css/main.319d8bcf.css",
+    "main.js": "./static/js/main.611306ba.js",
     "static/media/Accessories.png": "./static/media/Accessories.568be1fe397e0ac4d636.png",
     "static/media/nice-gadgets-logo.svg": "./static/media/nice-gadgets-logo.42d097e89c6d61298089.svg",
     "static/media/product-not-found.png": "./static/media/product-not-found.8214da88616b09290166.png",
@@ -25,11 +25,11 @@
     "static/media/arrow-up.svg": "./static/media/arrow-up.b1c61b8a9d7b5f519645.svg",
     "static/media/minus.svg": "./static/media/minus.4b7c4fa33c66c0b35185.svg",
     "index.html": "./index.html",
-    "main.8e82676b.css.map": "./static/css/main.8e82676b.css.map",
-    "main.45a58ab0.js.map": "./static/js/main.45a58ab0.js.map"
+    "main.319d8bcf.css.map": "./static/css/main.319d8bcf.css.map",
+    "main.611306ba.js.map": "./static/js/main.611306ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e82676b.css",
-    "static/js/main.45a58ab0.js"
+    "static/css/main.319d8bcf.css",
+    "static/js/main.611306ba.js"
   ]
 }
