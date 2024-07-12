@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.3f177143.css",
-    "main.js": "./static/js/main.14575a86.js",
+    "main.js": "./static/js/main.5397a337.js",
     "static/media/Accessories.png": "./static/media/Accessories.568be1fe397e0ac4d636.png",
     "static/media/nice-gadgets-logo.svg": "./static/media/nice-gadgets-logo.a34e2fd7c7d7a029a14f.svg",
     "static/media/product-not-found.png": "./static/media/product-not-found.8214da88616b09290166.png",
@@ -26,10 +26,10 @@
     "static/media/minus.svg": "./static/media/minus.4b7c4fa33c66c0b35185.svg",
     "index.html": "./index.html",
     "main.3f177143.css.map": "./static/css/main.3f177143.css.map",
-    "main.14575a86.js.map": "./static/js/main.14575a86.js.map"
+    "main.5397a337.js.map": "./static/js/main.5397a337.js.map"
   },
   "entrypoints": [
     "static/css/main.3f177143.css",
-    "static/js/main.14575a86.js"
+    "static/js/main.5397a337.js"
   ]
 }
